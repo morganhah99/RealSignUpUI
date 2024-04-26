@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnSubmitLogin.setOnClickListener{
-            val intent = Intent(this, SignedIn::class.java)
+            val intent = Intent(this, SignUp::class.java)
             startActivity(intent)
         }
 

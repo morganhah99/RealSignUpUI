@@ -2,12 +2,10 @@ package com.example.realsignupui
 
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import com.example.realsignupui.databinding.SignedInBinding
-import com.google.android.material.snackbar.Snackbar
 
-class SignedIn : AppCompatActivity() {
+class SignUp : AppCompatActivity() {
     private lateinit var binding: SignedInBinding
 
 

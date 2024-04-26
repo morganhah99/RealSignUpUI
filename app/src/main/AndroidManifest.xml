@@ -13,7 +13,7 @@
         android:theme="@style/Theme.RealSignUpUI"
         tools:targetApi="31">
         <activity
-            android:name=".SignedIn"
+            android:name=".SignUp"
             android:exported="false"
             android:label="SignedIn" />
         <activity
